@@ -3,11 +3,11 @@
 <a href="https://github.com/Am0ralz">![banner](moon.gif)</a>
 
 
-<p id="intro"><p>
+<p id="intro">
 
-Hi! My name is Angel, and I'm a Software Engineer in NYC.
+## Hello, My name is Angel Morales and I'm a Software Engineer, Tech Advisor, and Instructor in NYC.
 
-
+</p>
 
 #
 
@@ -19,10 +19,6 @@ Hi! My name is Angel, and I'm a Software Engineer in NYC.
 <div align="center">
 <img height="160px" width="330px" src="https://github-readme-stats.vercel.app/api?username=Am0ralz&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=000000&title_color=ffffff"/>
 
-</div>
-
-
-<div align="center">
 <img height="140px" width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am0ralz&hide=html&hide_border=true&card_width=330&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=000000&title_color=ffffff"/> 
 </div>
 

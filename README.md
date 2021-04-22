@@ -5,24 +5,28 @@
 
 <p id="intro">
 
-## Hello, My name is Angel Morales and I'm a Software Engineer, Tech Advisor, and Instructor in NYC.
+## Hello  👨🏽‍💻👩‍💻! My name is Angel 
+### I'm currently...
+- 🧞 Software Engineer at Floreo Labs
+- 🧙 Tech Advisor at Lehman College
+- 🦸‍♂️Web Developer Instructor at Hunter College
 
 </p>
 
 #
 
 
-<h3>Github Stats<h3>
-
+<details open>
+<summary>Github Stats</summary>
 
 
 <div align="center">
-<img height="160px" width="330px" src="https://github-readme-stats.vercel.app/api?username=Am0ralz&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&text_color=ffffff&icon_color=ffffff&bg_color=000000&title_color=ffffff"/>
+<img height="160px" width="330px" src="https://github-readme-stats.vercel.app/api?username=Am0ralz&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=28&text_color=ffffff&icon_color=ffffff&bg_color=000000&title_color=ffffff"/>
 
 <img height="160px" width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am0ralz&hide=html&hide_border=true&card_width=330&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=000000&title_color=ffffff"/> 
 </div>
+</details>
 
-#
 
 
 <h4>Technologies</h4>

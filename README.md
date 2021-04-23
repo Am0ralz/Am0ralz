@@ -5,17 +5,17 @@
 
 <p id="intro">
 
-## Hello  👩‍💻👨🏽‍💻! My name is Angel 
-### I'm currently...
+## Hello 👩‍💻👨‍💻 ! My name is Angel 
+### I'm currently a...
 <ul>
-<li> 🧞 a software engineer at Floreo Labs </li>
+<li> 🧞 software engineer at Floreo Labs </li>
 <li> 🧙 tech advisor at Lehman College </li>
 <li> 🦸‍♂️ web dev instructor at Hunter College </li>
 <li> My hobbies are </li>
     <ul>
         <li> playing video games</li>
         <li> playing handball  </li>
-        <li>riding skateboard </li>
+        <li> riding my skateboard </li>
     </ul>
 </ul>
 </p>
